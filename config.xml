@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.pro100host.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. pro100.host-дешевая накрутка</name>
+    <name>pro100.host-дешевая накрутка</name>
 
     <description>
         Pro100.host - дешевая накрутка соц сетей без ботов
